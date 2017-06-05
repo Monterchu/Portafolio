@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="32px" viewBox="0 0 15 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>011-social</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-797.000000, -31.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="011-social" transform="translate(797.000000, 31.000000)">
+                <g id="Capa_1">
+                    <path d="M3.27334158,6.18564356 L3.27334158,10.5830198 L0.0516831683,10.5830198 L0.0516831683,15.9601485 L3.27334158,15.9601485 L3.27334158,31.9390842 L9.89131188,31.9390842 L9.89131188,15.9605941 L14.3322772,15.9605941 C14.3322772,15.9605941 14.7481931,13.382302 14.949802,10.5631931 L9.91633663,10.5631931 L9.91633663,6.88663366 C9.91633663,6.33712871 10.637896,5.5979703 11.3510644,5.5979703 L14.9567822,5.5979703 L14.9567822,7.42574258e-05 L10.0542327,7.42574258e-05 C3.10975248,-0.000297029703 3.27334158,5.38217822 3.27334158,6.18564356 Z" id="Facebook"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

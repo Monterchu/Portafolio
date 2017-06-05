@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>004-instagram-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1247.000000, -51.000000)" fill-rule="nonzero" stroke="#274359" fill="#FFFFFF">
+            <g id="Redes-Sociales" transform="translate(1148.000000, 52.000000)">
+                <g id="004-instagram-logo" filter="url(#filter-1)" transform="translate(104.000000, 2.000000)">
+                    <g id="Layer_1">
+                        <g id="Group">
+                            <path d="M21.6010588,0 L8.23305882,0 C3.69335294,0 0,3.69352941 0,8.23323529 L0,21.6012353 C0,26.1411176 3.69335294,29.8344706 8.23305882,29.8344706 L21.6010588,29.8344706 C26.1411176,29.8344706 29.8344706,26.1409412 29.8344706,21.6012353 L29.8344706,8.23323529 C29.8346471,3.69352941 26.1411176,0 21.6010588,0 Z" id="Shape" stroke-width="1.2"></path>
+                            <path d="M14.9172353,7.23 C10.6782353,7.23 7.22964706,10.6785882 7.22964706,14.9175882 C7.22964706,19.1564118 10.6782353,22.6048235 14.9172353,22.6048235 C19.1562353,22.6048235 22.6048235,19.1564118 22.6048235,14.9175882 C22.6048235,10.6785882 19.1562353,7.23 14.9172353,7.23 Z" id="Shape" stroke-width="2.20000005"></path>
+                            <path d="M22.9272353,2.98547059 C22.4172353,2.98547059 21.9162353,3.19194118 21.5560588,3.55370588 C21.1941176,3.91370588 20.9860588,4.41488235 20.9860588,4.92664706 C20.9860588,5.43682353 21.1942941,5.93782353 21.5560588,6.29958824 C21.9160588,6.65958824 22.4172353,6.86782353 22.9272353,6.86782353 C23.439,6.86782353 23.9384118,6.65958824 24.3001765,6.29958824 C24.6619412,5.93782353 24.8684118,5.43664706 24.8684118,4.92664706 C24.8684118,4.41488235 24.6619412,3.91370588 24.3001765,3.55370588 C23.9401765,3.19194118 23.439,2.98547059 22.9272353,2.98547059 Z" id="Shape" stroke-width="1.20000005"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

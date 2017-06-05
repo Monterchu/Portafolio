@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="36px" viewBox="0 0 43 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>005-twitter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1190.000000, -54.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Redes-Sociales" transform="translate(1148.000000, 52.000000)">
+                <g id="005-twitter" filter="url(#filter-1)" transform="translate(45.000000, 4.000000)">
+                    <g id="Capa_1">
+                        <path d="M12.1467368,28.1118048 C8.66410526,28.1118048 5.21389474,27.1526349 2.17021053,25.3385072 L0,24.0454398 L2.52884211,24.0878578 C2.61073684,24.0919425 2.74263158,24.0986455 2.95031579,24.0986455 C3.91294737,24.0986455 6.97957895,23.9444745 10.124,22.1789442 C7.76031579,21.4796237 5.80715789,19.6615161 5.00284211,17.2812917 L4.60442105,16.1027005 L5.68957895,16.3833923 C3.95031579,15.0539816 2.81242105,13.0103779 2.68789474,10.7325851 L2.62831579,9.64218135 L3.63431579,10.0790341 C3.81768421,10.1591569 4.00431579,10.2298536 4.19378947,10.2910192 C2.76505263,8.30124972 1.90042105,5.22652271 3.70336842,1.96054825 L4.19989474,1.06055406 L4.83105263,1.87298917 C7.85505263,5.76297915 12.3389474,8.1350341 17.2287368,8.46076224 C17.1989474,8.15849491 17.178,7.88052626 17.178,7.79370034 C17.178,4.18304057 19.9394737,0.448583158 24.5601053,0.448583158 C26.4996842,0.448583158 28.3668421,1.21524875 29.7422105,2.56487344 C31.5856842,2.13409536 33.3473684,1.06453402 33.3663158,1.05301309 L34.9642105,0.074257637 L34.3607368,1.84251107 C34.0711579,2.6892995 33.6301053,3.469476 33.0645263,4.15067723 C33.3730526,4.05034039 33.6761053,3.93523582 33.988,3.80002198 L35.9072632,2.86703604 L35.1008421,4.59025311 C34.4351579,6.01392597 33.3250526,7.18853726 31.9463158,7.93970196 C32.2493684,12.6521817 30.3016842,17.9099156 26.7981053,21.7709985 C24.1975789,24.6378251 19.5662105,28.0639405 12.2701053,28.1104432 L12.1467368,28.1118048 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

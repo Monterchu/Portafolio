@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="86px" height="30px" viewBox="0 0 86 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Hamburguesa</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF5F3A" offset="0%"></stop>
+            <stop stop-color="#FF2A68" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Desktop-HD" transform="translate(-59.000000, -52.000000)" stroke="url(#linearGradient-1)" stroke-width="4.5">
+            <g id="Hamburguesa" transform="translate(61.000000, 53.000000)">
+                <path d="M0.624834752,1.86428571 L55.610293,1.86428571" id="Line"></path>
+                <path d="M22.0538046,14.2928571 L55.7948812,14.2928571" id="Line-Copy-5"></path>
+                <path d="M26.1104602,26.7214286 L81.0959185,26.7214286" id="Line-Copy-6"></path>
+            </g>
+        </g>
+    </g>
+</svg>
