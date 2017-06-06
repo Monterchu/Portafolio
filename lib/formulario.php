@@ -1,5 +1,5 @@
 <?php
-                $email_to = "jesusdmonteroc@outlook.com,chucho@jesusmontero.co";
+                $email_to = "jesusdmonteroc@outlook.com,chucho@jesusmontero.com.co";
 
                 $email_subject = "Interesado en pautar EO";
 
