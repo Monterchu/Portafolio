@@ -13,7 +13,7 @@
             <?php
             if (has_post_thumbnail()) { ?>
             <div>
-              <img src="<?php the_post_thumbnail_url('thumbnail') ?>" class='img-blog' alt="">
+              <img src="<?php the_post_thumbnail_url('full') ?>" class='img-blog' alt="">
             </div>
             <?php
            }
