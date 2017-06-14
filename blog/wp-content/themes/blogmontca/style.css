@@ -36,18 +36,15 @@ li{
 .tag{
   margin-top: 50px;
 }
-.mw li a{
-  text-decoration: none;
-  color: gray;
+.alto{
+  height: 750px;
 }
-
-
-
 /*section*/
 .portada{
   background: #274359;
-  min-height: calc(100vh - 48px);
-  /*background-image: url('http://jesusmontero.co/img/Avatar-Jesus%20Montero.jpg');*/
+  min-height: calc(105vh - 48px);
+  background-image: url("../img/background3.jpg");
+  background-size: cover;
 }
 .section-blog{
   background: white;
@@ -74,12 +71,17 @@ li{
 
 /*button*/
 
+
+.enviar{
+  text-align: center;
+}
+
 /*/button*/
 
 /*img blog*/
 .img-blog{
  width: 100%;
- height: 250px;
+ height: 225px;
 }
 /*/img blog*/
 
@@ -119,7 +121,7 @@ li{
 }
 
 /*input*/
-.input{
+.input1{
   font-size: 16px;
   text-align: center;
   background: #274359;
@@ -127,9 +129,19 @@ li{
   border-left: #274359;
   border-right: #274359;
   border-top: #274359;
-  border-bottom: #274359;
   width: 250px;
-  margin-right: 5px;
+  margin-right: 35px;
+}
+.input2{
+  font-size: 16px;
+  text-align: center;
+  background: #274359;
+  color: white;
+  border-left: #274359;
+  border-right: #274359;
+  border-top: #274359;
+  width: 250px;
+  margin-left: 35px;
 }
 /*input, textarea{
   color: red;
@@ -140,5 +152,30 @@ li{
 @media screen and (max-width: 700px) {
  .m4{
    width: 90%;
+
+ }
+ .portada{
+   background: #274359;
+   min-height: calc(105vh - 48px);
+   background-image: url("../img/background3.jpg");
+   background-size: cover;
  }
 }
+@media screen and (max-width: 476px) {
+  /*menu responsive*/
+  .mr{
+    background: white;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    position: fixed;
+    width: 150px;
+    left: -150px;
+    z-index: 2;
+    transition: .8s;
+  }
+  .input2 {
+     margin-left: 0;
+  }
+  }
