@@ -38,8 +38,6 @@
 <?php get_footer() ?>
 <!-- /footer -->
 
-<script src='https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/blazy/1.8.2/blazy.min.js'></script>
-<script type="text/javascript" src='lib/jdmc.js'></script>
+
 
 </body>
