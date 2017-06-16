@@ -1,22 +1,24 @@
-<footer class="df jc-a ai-c fd-c" id="contacto">
+<footer class="df jc-a ai-c fd-c contactoscroll1" id="contacto">
   <div class="subtitle-1">
     <h4>
       Contacto
     </h4>
   </div>
-  <div class="m1 df jc-a">
-    <div class="ta-c df-w am">
-      <input type="email" name="" value="" placeholder="Correo electronico">
-      <h4>Correo</h4>
+  <form class="m1" type='POST' id="form">
+    <div class="df jc-a form">
+      <div class="ta-c am">
+        <input class="input1" type="email" name="email" value="" placeholder="Correo electronico">
+        <h4>Correo</h4>
+      </div>
+      <div class="ta-c am">
+        <input class="input1" type="textarea" name="comentarios" value="" placeholder="Deja un mensaje">
+        <h4>Mensaje</h4>
+      </div>
     </div>
-    <div class="ta-c am">
-      <input type="textarea" name="" value="" placeholder="Deja un mensaje">
-      <h4>Mensaje</h4>
+    <div class="enviar">
+       <input type="submit" class="lk txt btn-2" name="" placeholder="Enviar">
     </div>
-  </div>
-  <div class="btn-2">
-    <a href="#" class="lk txt">Enviar</a>
-  </div>
+  </form>
 </footer>
 <script src=" <?php bloginfo(template_url)?>/js/jdmc.js "></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js'></script>
