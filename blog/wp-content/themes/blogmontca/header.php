@@ -28,7 +28,7 @@
             wp_nav_menu(
               array(
                 'theme_location' => 'top-menu',
-                'menu_class' => 'ls-n df fd-c ai-l mw',
+                'menu_class' => 'ls-n df fd-c ai-l mw lk ac',
               ) )
            ?>
           <!-- <ul class="ls-n">

@@ -1,6 +1,6 @@
 <?php
                 $email_to = "jesusdmonteroc@gmail.com";
-                $email_subject = "Interesado en pautar EO";
+                $email_subject = "Correo del portafolio web";
                 $email_from = "jesusdmonteroc@outlook.com";
                 $time = time();
             $email_message = "Fecha y hora: ".date("d/m/Y (H:i:s)", $time)."\n".
