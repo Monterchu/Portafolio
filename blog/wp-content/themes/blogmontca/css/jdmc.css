@@ -99,6 +99,10 @@ body{
 .ls-n{
   list-style: none;
 }
+.mw a{
+  text-decoration: none;
+  color: gray;
+}
 /*.am{
   margin-top: 10px;
   margin-bottom: 10px;
@@ -107,9 +111,7 @@ ul{
   margin: 0;
   padding: 0;
 }
-section{
 
-}
 /*animaciones*/
 .btn-1:hover{
   transform: scale(1.1);
