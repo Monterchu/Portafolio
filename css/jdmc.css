@@ -124,6 +124,11 @@ section{
 }
 /*/animaciones*/
 
+.prueba{
+  background: red;
+  display: none;
+}
+
 /*botones*/
 .btn-1{
 	border-radius: 30px;
