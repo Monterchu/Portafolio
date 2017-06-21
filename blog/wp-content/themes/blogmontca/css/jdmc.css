@@ -348,6 +348,9 @@ input[placeholder] {
     width: 90%;
     flex-direction: column;
   }
+  .m4{
+    width: 100%;
+  }
 
   .am{
     margin-top: 10px;
