@@ -34,6 +34,9 @@
         <img src="img/Hamburguesa.png" width='50' alt="Menu" id="bm" class="f">
       </a>
       <div class="mr df jc-c ai-c h" id='mr'>
+        <a href="#" class="lk bm1 m" id='btn-menu'>
+          <img src="img/Hamburguesa.png" width='50' alt="Menu" id="bm1" class="f1">
+        </a>
         <ul class="ls-n">
           <a href="index.html">
             <img src="https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-9/12208684_10153253626258697_7413417102236425354_n.jpg?oh=21ea85c9c67f5f2bf6413421451576b9&oe=598ED021" alt="Avatar" class="a-1"></a>
@@ -45,8 +48,8 @@
     </div>
     <div class="">
       <ul class="df ls-n ai-b">
-        <li><a href="https://www.facebook.com/" class="lk" target="_blank"><img src="icon/facebook.svg" alt="" class="rs"></a></li>
-        <li><a href="https://twitter.com/" class="lk" target="_blank"><img src="icon/twitter.svg" alt="" class="rs"></a></li>
+        <li><a href="https://www.facebook.com/montca.co" class="lk" target="_blank"><img src="icon/facebook.svg" alt="" class="rs"></a></li>
+        <li><a href="https://twitter.com/Monterchu?lang=es" class="lk" target="_blank"><img src="icon/twitter.svg" alt="" class="rs"></a></li>
         <li><a href="https://www.instagram.com/jesusmontero11/" class="lk" target="_blank"><img src="icon/instagram.svg" alt="" class="rs"></a></li>
         <li><a href="https://github.com/Monterchu" class="lk" target="_blank"><img src="icon/github.svg" alt="" class="rs"></a></li>
       </ul>
@@ -235,16 +238,18 @@
   <form class="m1" type='POST' id="form">
     <div class="df jc-a form">
       <div class="ta-c am">
-        <input class="input1" type="email" name="email" value="" placeholder="Correo electronico">
+        <input class="input1" type="email" name="email" value="" placeholder="Correo electronico" id='email'>
         <h4>Correo</h4>
+        <span class="errorcorreo"></span>
       </div>
       <div class="ta-c am">
-        <input class="input1" type="textarea" name="comentarios" value="" placeholder="Deja un mensaje">
+        <input class="input1" type="textarea" name="comentarios" value="" placeholder="Deja un mensaje" id='mensaje'>
         <h4>Mensaje</h4>
+        <span class="errormensaje"></span>
       </div>
     </div>
     <div class="enviar">
-       <input type="submit" class="lk txt btn-2 various" href="#inline" name="" placeholder="Enviar">
+       <input type="submit" class="lk txt btn-2 various" href="#inline" name="" placeholder="Enviar" id='enviar'>
     </div>
   </form>
 </footer>

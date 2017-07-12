@@ -216,13 +216,20 @@ h1,h2,h3,h4,h5,h6{
   left: 0;
 }
 .f{
-  position: fixed;
+  position: absolute;
+  top: -25px;
+}
+.f1{
   top: 25px;
+  left: 37px;
 }
 .bm{
-  position: fixed;
   position: absolute;
-  z-index: 4;
+}
+.bm1{
+  position: absolute;
+  top: 23px;
+  left: 44px;
 }
 /*/menu responsive*/
 
@@ -232,7 +239,9 @@ h1,h2,h3,h4,h5,h6{
   width: 100px;
 }
 /*/avatar*/
-
+.error{
+  display: block;
+}
 
 /*texto enfasis*/
 .tb{
