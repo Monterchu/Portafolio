@@ -347,7 +347,7 @@ input[placeholder] {
     position: fixed;
     width: 150px;
     left: -150px;
-    z-index: 2;
+    z-index: 5;
     transition: .8s;
   }
   .ma{
@@ -418,7 +418,7 @@ input[placeholder] {
     position: fixed;
     width: 150px;
     left: -150px;
-    z-index: 2;
+    z-index: 5;
     transition: .8s;
   }
   .ma{
