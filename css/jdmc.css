@@ -122,6 +122,9 @@ section{
 .btn-3:hover{
   transform: scale(1.3);
 }
+.btns{
+  margin-top: 30px;
+}
 /*/animaciones*/
 
 .prueba{
@@ -409,6 +412,10 @@ input[placeholder] {
 /*version movil*/
 @media screen and (max-width: 476px) {
   /*menu responsive*/
+  .btns{
+    display: flex;
+    flex-direction: column;
+  }
   .mr{
     background: white;
     top: 0;
