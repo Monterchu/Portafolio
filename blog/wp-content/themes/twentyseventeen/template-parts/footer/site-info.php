@@ -10,5 +10,5 @@
 
 ?>
 <div class="site-info">
-	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyseventeen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyseventeen' ), 'WordPress' ); ?></a>
+	<a href="<?php echo esc_url( __( 'https://jesusmontero.com.co', 'montca' ) ); ?>"><?php printf( __( '© 2018 <strong>	Jesus Montero</strong>', 'montca' ), '' ); ?></a>
 </div><!-- .site-info -->

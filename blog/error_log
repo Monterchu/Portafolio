@@ -1,0 +1,4 @@
+[30-Jan-2018 02:54:19 UTC] PHP Parse error:  syntax error, unexpected 'sprintf' (T_STRING) in /home2/golescol/public_html/jesusmontero.com.co/blog/wp-content/themes/twentyseventeen/template-parts/post/content.php on line 55
+[31-Jan-2018 02:20:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/golescol/public_html/jesusmontero.com.co/blog/wp-content/themes/twentyseventeen/template-parts/post/content.php on line 56
+[31-Jan-2018 02:23:13 UTC] PHP Parse error:  syntax error, unexpected 'get_the_title' (T_STRING) in /home2/golescol/public_html/jesusmontero.com.co/blog/wp-content/themes/twentyseventeen/template-parts/post/content.php on line 56
+[31-Jan-2018 02:23:18 UTC] PHP Parse error:  syntax error, unexpected 'get_the_title' (T_STRING) in /home2/golescol/public_html/jesusmontero.com.co/blog/wp-content/themes/twentyseventeen/template-parts/post/content.php on line 56

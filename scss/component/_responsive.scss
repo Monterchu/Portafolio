@@ -1,0 +1,45 @@
+@media screen and (max-width: 850px){
+    .header-bg{
+        height: 98vh;
+        background-size: cover;
+    }
+}
+@media screen and (max-width: 400px){
+    .margin-proyectos-bg{
+        width: 90%;
+    }
+    .article-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+    .article-section-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center        
+    }
+    .section-article-text{
+        text-align: left;
+        width: 70%;
+        margin-top: 20px; 
+        margin-left: 0; 
+    }
+    .section-article-text-1{
+        width: 70%;
+        margin-top: 20px;
+        margin-right: 0px;
+    }
+    .header-bg{
+        height: 70vh;
+        background-size: cover;
+    }
+    .section-hero-text{
+        height: 50vh;
+    }
+    .header-bg::after{
+     height: 70%;
+    }
+    .section-hero-text{
+        padding: 50%;
+    }
+}

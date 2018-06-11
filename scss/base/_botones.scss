@@ -1,0 +1,27 @@
+// botones
+
+.botonprimary{
+    color: $botonColorPrimary;
+    border: $botonFormaPrimary;
+    font-size: $botonTextoPrimary;
+    border: $botonBorderPrimary;
+    border-radius: $butonBoderRadiusPrimary;
+    padding: $butonpaddingPrimary;
+    margin-top: $butonMarginTopPrimary;
+    display: $butonInlinePrimary;
+    width: $butonwidthPrimary;
+    text-align: center;    
+}
+.butonSecondary{
+    color: $botonColorSecondary;
+    border: $botonFormaSecondary;
+    font-size: $botonTextoSecondary;
+    border: $botonBorderSecondary;
+    border-radius: $butonBoderRadiusSecondary;
+    background: $butonBackgroundSecondary;
+    padding: $butonpaddingSecondary;  
+    margin-top: $butonMarginTopSecondary;    
+    display: $butonInlineSecondary;  
+    width: $butonInwidthSecondary; 
+    text-align: center;             
+}
